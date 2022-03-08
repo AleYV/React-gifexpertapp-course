@@ -5,7 +5,7 @@ import React from 'react';
 
 export const GifExpertApp = () =>{
 
-    const [categories, setCategories] = useState(['Tokyo Ghoul']);
+    const [categories, setCategories] = useState(['Sailor Moon']);
 
     return(
         <>
